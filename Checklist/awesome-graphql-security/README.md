@@ -117,16 +117,3 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 - [Verbose Errors Suggestions](https://blog.escape.tech/graphql-verbose-error-suggestions/) - When GraphQL Error Messages become a Security Issue.
 - [What are Insecure Direct Object References (IDOR) in GraphQL, and how to fix them](https://escape.tech/blog/idor-in-graphql/) - When GraphQL Error Messages become a Security Issue.
 
-## Contributing
-
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/Escape-Technologies/awesome-graphql-security/blob/main/CONTRIBUTING.md) first.
-
-We will keep some pull requests open if we are not sure whether those libraries are awesome, you could [vote for them](https://github.com/Escape-Technologies/awesome-graphql-security/pulls) by adding :+1: to them.
-
----
-
-If you have any question about this opinionated list, do not hesitate to contact us [@escapetechHQ](https://twitter.com/escapetechHQ) on Twitter or open an issue on GitHub.
-
-## 🤝 Join our team  
-
-We believe it's time to bring more AI-driven innovation to cybersecurity, and we'd love your help in building this dream! Want to join our adventure? Check out our [**Careers**](https://jobs.escape.tech) page!
